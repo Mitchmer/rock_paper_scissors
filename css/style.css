@@ -1,3 +1,32 @@
+body {
+  background-color: black;
+}
+
+.container {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10% 30%;
+  width: 960px;
+}
+
 .choice {
-  
+  vertical-align: center;
+}
+
+.col-left {
+  margin: 0 25px;
+}
+
+.col-mid {
+  margin: 0 25px;
+}
+
+.col-right {
+  margin: 0 25px;
+}
+
+img {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
 }
